@@ -3,5 +3,5 @@
   "update_title": "New Update Available",
   "update_message": "Please update to the latest version for new features and bug fixes",
   "download_link": "https://your-app-download-link.com",
-  "force_update": false
+  "force_update": true
 }
