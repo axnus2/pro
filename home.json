@@ -1,9 +1,9 @@
 [
   {
     "name": "Channel 1",
-    "logo": "https://example.com/logo1.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
     "type": "embed",
-    "embed": "https://example.com/embed1"
+    "embed": "http://10.99.99.99/player.php?stream=bk/22"
   },
   {
     "name": "Channel 2",
@@ -15,7 +15,7 @@
     "name": "Channel 3",
     "logo": "https://example.com/logo3.png",
     "type": "m3u8",
-    "stream": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746841871:KeyName=prod_linear:Signature=9loerHakvnLpz0r_zj_wAY79OuD9AhERWJQZY03MqIV1KNxhunOl7nKcp8OaKJUXqr3QjnPyGdiA6KFnV_uZBw"
+    "stream": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
+    "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746928105:KeyName=prod_linear:Signature=KUuqGeOSXaFsGR_EQpEDb-89AhhJzBNW3INXl5gUDah4iGaQkSKk3U8ZFnRgehVa65WiLvMncRdfwOwkqpEgAA"
   }
 ]
