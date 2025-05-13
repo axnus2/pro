@@ -1,11 +1,15 @@
 [
-{
-    "name": "DRM Channel",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjUE1TJ3z561HpXUv8Lw6TyHhZTHYZi4dWw&s",
-    "type": "drm",
-    "stream": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
-    "drm": "dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1"
-},
+    {
+        "name": "DRM Channel",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjUE1TJ3z561HpXUv8Lw6TyHhZTHYZi4dWw&s",
+        "type": "drm",
+        "stream": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
+        "drmInput": "dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1",
+        "headers": {
+            "User-Agent": "YourApp/1.0",
+            "Origin": "https://izzigo.tv"
+        }
+    },
   {
     "name": "Channel 102",
     "logo": "http://tvassets.roarzone.info/images/102.png",
