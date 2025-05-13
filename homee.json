@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Geo News",
+    "logo": "http://172.16.29.28/assets/images/geonews.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/GEONews.m3u8"
+  },
+  {
+    "name": "Al Jazeera News",
+    "logo": "http://172.16.29.28/assets/images/aljazeranews.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/AlJazeeraNews.m3u8"
+  },
+  {
+    "name": "DBC News",
+    "logo": "http://172.16.29.28/assets/images/dbcnews.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/dbcnews.m3u8"
+  },
+  {
+    "name": "Somoy TV",
+    "logo": "http://172.16.29.28/assets/images/somoytv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/somoytv.m3u8"
+  },
+  {
+    "name": "Jamuna TV",
+    "logo": "http://172.16.29.28/assets/images/jamunatv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/jamunatv.m3u8"
+  },
+  {
+    "name": "Bangla Vision",
+    "logo": "http://172.16.29.28/assets/images/banglavision.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/banglavision.m3u8"
+  },
+  {
+    "name": "NTV",
+    "logo": "http://172.16.29.28/assets/images/ntvbd.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/ntvbd.m3u8"
+  },
+  {
+    "name": "Channel 9",
+    "logo": "http://172.16.29.28/assets/images/channel9hd.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/channel9.m3u8"
+  },
+  {
+    "name": "Ekushey TV",
+    "logo": "http://172.16.29.28/assets/images/ekusheytv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/ekusheytv.m3u8"
+  },
+  {
+    "name": "RTV",
+    "logo": "http://172.16.29.28/assets/images/rtv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/rtvhd.m3u8"
+  },
+  {
+    "name": "Ekattor TV",
+    "logo": "http://172.16.29.28/assets/images/ekattortv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/ekattortv.m3u8"
+  },
+  {
+    "name": "Asian TV",
+    "logo": "http://172.16.29.28/assets/images/asiantv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/asiantv.m3u8"
+  },
+  {
+    "name": "Maasranga TV",
+    "logo": "http://172.16.29.28/assets/images/masrangatv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/maasrangatv.m3u8"
+  },
+  {
+    "name": "My TV",
+    "logo": "http://172.16.29.28/assets/images/mytvhd.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/mytv.m3u8"
+  },
+  {
+    "name": "Mohona TV",
+    "logo": "http://172.16.29.28/assets/images/mohonatv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/mohonatv.m3u8"
+  },
+  {
+    "name": "Bangla TV",
+    "logo": "http://172.16.29.28/assets/images/banglatv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/banglatv.m3u8"
+  },
+  {
+    "name": "ATN Bangla",
+    "logo": "http://172.16.29.28/assets/images/atnnews.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/atnbangla.m3u8"
+  },
+  {
+    "name": "Zee Bangla",
+    "logo": "http://172.16.29.28/assets/images/zeebangla.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/zeebanglahd.m3u8"
+  },
+  {
+    "name": "Star Jalsha",
+    "logo": "http://172.16.29.28/assets/images/starjalsha.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/starjalshahd.m3u8"
+  },
+  {
+    "name": "Sony Aath",
+    "logo": "http://172.16.29.28/assets/images/sonyaath.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/sonyatth.m3u8"
+  },
+  {
+    "name": "Enter 10 Bangla",
+    "logo": "http://172.16.29.28/assets/images/enterbangla.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/Enter10Bangla.m3u8"
+  },
+  {
+    "name": "Jalsha Movies",
+    "logo": "http://172.16.29.28/assets/images/jalshamovies.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/jalshamovieshd.m3u8"
+  },
+  {
+    "name": "Zee TV",
+    "logo": "http://172.16.29.28/assets/images/zeetv.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/zeetvhd.m3u8"
+  },
+  {
+    "name": "Star Gold",
+    "logo": "http://172.16.29.28/assets/images/stargoldhd.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/stargoldhd.m3u8"
+  },
+  {
+    "name": "Colors HD",
+    "logo": "http://172.16.29.28/assets/images/colors.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/colorshd.m3u8"
+  },
+  {
+    "name": "MTV India",
+    "logo": "http://172.16.29.28/assets/images/zoomtv.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/mtvindia.m3u8"
+  },
+  {
+    "name": "Sony HD",
+    "logo": "http://172.16.29.28/assets/images/sony.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/sonyhd.m3u8"
+  },
+  {
+    "name": "PTV Sports",
+    "logo": "http://172.16.29.28/assets/images/ptvsports.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/ptvsportshd.m3u8"
+  },
+  {
+    "name": "Sony Ten 2",
+    "logo": "http://172.16.29.28/assets/images/sony-ten-2.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/sonyten2hd.m3u8"
+  },
+  {
+    "name": "Sony Ten 5",
+    "logo": "http://172.16.29.28/assets/images/sonyten5.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/sonyten5hd.m3u8"
+  },
+  {
+    "name": "Star Sports 1",
+    "logo": "http://172.16.29.28/assets/images/starsports1.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/starsports1hd.m3u8"
+  },
+  {
+    "name": "TNT Sports 2",
+    "logo": "http://172.16.29.28/assets/images/tntsports.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/tntsports2hd.m3u8"
+  },
+  {
+    "name": "Ten Sports 3",
+    "logo": "http://172.16.29.28/assets/images/tensports.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/tensports3hd.m3u8"
+  },
+  {
+    "name": "Ten Sports 4",
+    "logo": "http://172.16.29.28/assets/images/tensports.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/tensports4hd.m3u8"
+  },
+  {
+    "name": "Eurosport",
+    "logo": "http://172.16.29.28/assets/images/eurosport.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/eurosportshd.m3u8"
+  },
+  {
+    "name": "NBC Golf",
+    "logo": "http://172.16.29.28/assets/images/NBCGolfHD.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/NBCGolfHD.m3u8"
+  },
+  {
+    "name": "TNT Sports 1",
+    "logo": "http://172.16.29.28/assets/images/tntsports.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/tntsports1hd.m3u8"
+  },
+  {
+    "name": "T Sports",
+    "logo": "http://172.16.29.28/assets/images/TSports.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/tsportshd.m3u8"
+  },
+  {
+    "name": "Sky Sports Golf",
+    "logo": "http://172.16.29.28/assets/images/skysportsgolfhd.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/SkySportsGOLF.m3u8"
+  },
+  {
+    "name": "Super Liga",
+    "logo": "http://172.16.29.28/assets/images/laligahd.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/superlaligahd.m3u8"
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "logo": "http://172.16.29.28/assets/images/skysportsgolfhd.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/skysportscrickethd.m3u8"
+  },
+  {
+    "name": "Nick TV",
+    "logo": "http://172.16.29.28/assets/images/nicktv.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/nicktvhdplus.m3u8"
+  },
+  {
+    "name": "Discovery Kids",
+    "logo": "http://172.16.29.28/assets/images/dicoveryKid.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/DiscoveryKids.m3u8"
+  },
+  {
+    "name": "Pogo",
+    "logo": "http://172.16.29.28/assets/images/pogo.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/pogo.m3u8"
+  },
+  {
+    "name": "Duronto TV",
+    "logo": "http://172.16.29.28/assets/images/durontotv.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/duronto.m3u8"
+  },
+  {
+    "name": "Discovery HD",
+    "logo": "http://172.16.29.28/assets/images/discoveryhd.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/DiscoveryHD.m3u8"
+  },
+  {
+    "name": "And Picture TV",
+    "logo": "http://172.16.29.28/assets/images/andpic.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/AndPictureTV.m3u8"
+  },
+  {
+    "name": "And Prive HD",
+    "logo": "http://172.16.29.28/assets/images/andtv.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/AndPriveHD.m3u8"
+  },
+  {
+    "name": "ARY Digital",
+    "logo": "http://172.16.29.28/assets/images/Ary.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/ARYDigital.m3u8"
+  },
+  {
+    "name": "Star Life HD",
+    "logo": "http://172.16.29.28/assets/images/Starlife.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/StarLifeHD.m3u8"
+  },
+  {
+    "name": "And Flix HD",
+    "logo": "http://172.16.29.28/assets/images/andflix.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/andflixhd.m3u8"
+  },
+  {
+    "name": "Sony Pix HD",
+    "logo": "http://172.16.29.28/assets/images/sonypix.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/sonypixhd.m3u8"
+  },
+  {
+    "name": "AXN HD",
+    "logo": "http://172.16.29.28/assets/images/mn+.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/axnhd.m3u8"
+  },
+  {
+    "name": "Star Movies HD",
+    "logo": "http://172.16.29.28/assets/images/star-movies-hd.jpg",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/starmovieshd.m3u8"
+  },
+  {
+    "name": "Mastii",
+    "logo": "http://172.16.29.28/assets/images/63masti.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/mastii.m3u8"
+  },
+  {
+    "name": "9XM",
+    "logo": "http://172.16.29.28/assets/images/9xm.png",
+    "type": "m3u8",
+    "stream": "http://172.16.29.2:8090/hls/9xm.m3u8"
+  }
+]
