@@ -2,13 +2,8 @@
     {
         "name": "DRM Channel",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjUE1TJ3z561HpXUv8Lw6TyHhZTHYZi4dWw&s",
-        "type": "drm",
+        "type": "m3u8",
         "stream": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
-        "drmInput": "rcCO4cIKc0lypVya670YiA:yItRKxerT2ywnrD_ShBW7Q",
-        "headers": {
-            "User-Agent": "YourApp/1.0",
-            "Origin": "https://izzigo.tv"
-        }
     },
   {
     "name": "Channel 102",
