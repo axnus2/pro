@@ -1,10 +1,4 @@
 [
-    {
-        "name": "DRM Channel",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjUE1TJ3z561HpXUv8Lw6TyHhZTHYZi4dWw&s",
-        "type": "m3u8",
-        "stream": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
-    },
   {
     "name": "Channel 102",
     "logo": "http://tvassets.roarzone.info/images/102.png",
