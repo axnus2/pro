@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Premium HD",
+    "logo": "https://example.com/logos/premium.png",
+    "type": "drm",
+    "stream": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
+    "drm": "dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1",
+    "cookie": ""
+  }
+]
