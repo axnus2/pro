@@ -1,10 +1,12 @@
 [
-  {
-    "name": "Premium HD",
-    "logo": "https://example.com/logos/premium.png",
-    "type": "drm",
-    "stream": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
-    "drm": "dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1",
-    "cookie": ""
-  }
+{
+  "name": "Premium HD",
+  "logo": "https://example.com/logos/premium.png",
+  "type": "drm",
+  "stream": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+  "drm": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
+  "referer": "",
+  "userAgent": "Mozilla/5.0",
+  "origin": ""
+}
 ]
