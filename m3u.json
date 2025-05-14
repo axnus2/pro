@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Channel 102",
+    "logo": "http://tvassets.roarzone.info/images/102.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/102",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 25",
+    "logo": "http://tvassets.roarzone.info/images/25.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/25",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 26",
+    "logo": "http://tvassets.roarzone.info/images/26.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/26",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 37",
+    "logo": "http://tvassets.roarzone.info/images/37.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/37",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 1",
+    "logo": "http://tvassets.roarzone.info/images/1.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/1",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 20",
+    "logo": "http://tvassets.roarzone.info/images/20.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/20",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 21",
+    "logo": "http://tvassets.roarzone.info/images/21.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/21",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 22",
+    "logo": "http://tvassets.roarzone.info/images/22.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/22",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 24",
+    "logo": "http://tvassets.roarzone.info/images/24.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/24",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Euro Sports HD",
+    "logo": "http://tvassets.roarzone.info/images/euro_sports_hd.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=toffee/euro_sports_hd",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Dubai Sports",
+    "logo": "http://tvassets.roarzone.info/images/dubai-sports.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/dubai-sports",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 27",
+    "logo": "http://tvassets.roarzone.info/images/27.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/27",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 28",
+    "logo": "http://tvassets.roarzone.info/images/28.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/28",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Ten Cricket",
+    "logo": "http://tvassets.roarzone.info/images/ten_cricket.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=toffee/ten_cricket",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Ten Sports",
+    "logo": "http://tvassets.roarzone.info/images/tensports.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/tensports",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 30",
+    "logo": "http://tvassets.roarzone.info/images/30.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/30",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 31",
+    "logo": "http://tvassets.roarzone.info/images/31.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/31",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 34",
+    "logo": "http://tvassets.roarzone.info/images/34.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/34",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 29",
+    "logo": "http://tvassets.roarzone.info/images/29.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/29",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 66",
+    "logo": "http://tvassets.roarzone.info/images/66.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/66",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 33",
+    "logo": "http://tvassets.roarzone.info/images/33.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/33",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 72",
+    "logo": "http://tvassets.roarzone.info/images/75.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/72",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 38",
+    "logo": "http://tvassets.roarzone.info/images/38.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/38",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 77",
+    "logo": "http://tvassets.roarzone.info/images/77.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/77",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 68",
+    "logo": "http://tvassets.roarzone.info/images/68.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/68",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 40",
+    "logo": "http://tvassets.roarzone.info/images/40.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/40",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 76",
+    "logo": "http://tvassets.roarzone.info/images/76.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/76",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 67",
+    "logo": "http://tvassets.roarzone.info/images/67.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/67",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 74",
+    "logo": "http://tvassets.roarzone.info/images/74.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/74",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 100",
+    "logo": "http://tvassets.roarzone.info/images/100.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/100",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 58",
+    "logo": "http://tvassets.roarzone.info/images/58.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/58",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 48",
+    "logo": "http://tvassets.roarzone.info/images/48.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/48",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 83",
+    "logo": "http://tvassets.roarzone.info/images/43.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/83",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 44",
+    "logo": "http://tvassets.roarzone.info/images/44.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/44",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 35",
+    "logo": "http://tvassets.roarzone.info/images/35.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/35",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Animal Planet HD",
+    "logo": "http://tvassets.roarzone.info/images/animalplanet.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=toffee/animal_planet_hd",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 79",
+    "logo": "http://tvassets.roarzone.info/images/79.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/79",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 55",
+    "logo": "http://tvassets.roarzone.info/images/55.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/55",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 59",
+    "logo": "http://tvassets.roarzone.info/images/59.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/59",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 13",
+    "logo": "http://tvassets.roarzone.info/images/13.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/13",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 65",
+    "logo": "http://tvassets.roarzone.info/images/65.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/65",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Asian TV",
+    "logo": "http://tvassets.roarzone.info/images/62.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=edge/asian-tv",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 2",
+    "logo": "http://tvassets.roarzone.info/images/2.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/2",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 49",
+    "logo": "http://tvassets.roarzone.info/images/49.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/49",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 3",
+    "logo": "http://tvassets.roarzone.info/images/3.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/3",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 19",
+    "logo": "http://tvassets.roarzone.info/images/19.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/19",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 61",
+    "logo": "http://tvassets.roarzone.info/images/61.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/61",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 53",
+    "logo": "http://tvassets.roarzone.info/images/53.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/53",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 84",
+    "logo": "http://tvassets.roarzone.info/images/84.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/84",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 5",
+    "logo": "http://tvassets.roarzone.info/images/5.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/5",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 4",
+    "logo": "http://tvassets.roarzone.info/images/4.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/4",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 6",
+    "logo": "http://tvassets.roarzone.info/images/6.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/6",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 7",
+    "logo": "http://tvassets.roarzone.info/images/7.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/7",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 8",
+    "logo": "http://tvassets.roarzone.info/images/8.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/8",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 9",
+    "logo": "http://tvassets.roarzone.info/images/9.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/9",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 10",
+    "logo": "http://tvassets.roarzone.info/images/10.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/10",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 11",
+    "logo": "http://tvassets.roarzone.info/images/11.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/11",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 12",
+    "logo": "http://tvassets.roarzone.info/images/12.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/12",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 51",
+    "logo": "http://tvassets.roarzone.info/images/51.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/51",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 50",
+    "logo": "http://tvassets.roarzone.info/images/50.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/50",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 86",
+    "logo": "http://tvassets.roarzone.info/images/86.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/86",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 56",
+    "logo": "http://tvassets.roarzone.info/images/56.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/56",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 18",
+    "logo": "http://tvassets.roarzone.info/images/18.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/18",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 54",
+    "logo": "http://tvassets.roarzone.info/images/54.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/54",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 14",
+    "logo": "http://tvassets.roarzone.info/images/14.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/14",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 15",
+    "logo": "http://tvassets.roarzone.info/images/15.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/15",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 88",
+    "logo": "http://tvassets.roarzone.info/images/88.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/88",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 17",
+    "logo": "http://tvassets.roarzone.info/images/17.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/17",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Ekhon TV",
+    "logo": "http://tvassets.roarzone.info/images/ekhon-tv.jpg",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=ext/ekhon-tv",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Bijoy TV",
+    "logo": "http://tvassets.roarzone.info/images/bijoy-tv.jpg",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=ext/bijoy-tv",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Star Movies",
+    "logo": "http://tvassets.roarzone.info/images/starmovies.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/starmovies",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 69",
+    "logo": "http://tvassets.roarzone.info/images/69.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/69",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 41",
+    "logo": "http://tvassets.roarzone.info/images/41.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/41",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 85",
+    "logo": "http://tvassets.roarzone.info/images/85.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/85",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 89",
+    "logo": "http://tvassets.roarzone.info/images/89.png",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/89",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Channel 3",
+    "logo": "https://example.com/logo3.png",
+    "type": "embed",
+    "embed": "https://play69.pages.dev/?url=aHR0cHM6Ly94NC1jZG5uZXcubmV3a3NvLnJ1L3g0LWNkbi9tb25vMTgvbW9uby5tM3U4",
+    "cookie": "",
+    "referer": ""
+  }
+]
