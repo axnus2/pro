@@ -3,18 +3,18 @@
     "name": "FTP Sports Channel",
     "logo": "https://example.com/logos/sports.png",
     "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/25",
+    "stream": "http://10.99.99.99/player.php?stream=bk/25"
   },
   {
     "name": "FTP Movie Channel",
     "logo": "https://example.com/logos/movies.png",
     "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/25",
+    "stream": "http://10.99.99.99/player.php?stream=bk/25"
   },
   {
     "name": "FTP News Channel",
     "logo": "https://example.com/logos/news.png",
     "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/25",
+    "stream": "http://10.99.99.99/player.php?stream=bk/25"
   }
 ]
