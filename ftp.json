@@ -1,8 +1,27 @@
-{
-  "name": "Channel 111 Name",
-  "logo": "https://example.com/logo.png",
-  "type": "ftp",
-  "ftpServer": "http://10.99.99.99/player.php?stream=bk/25",
-  "referer": "http://10.99.99.99/",
-  "userAgent": "Mozilla/5.0"
-}
+[
+  {
+    "name": "FTP Sports Channel",
+    "logo": "https://example.com/logos/sports.png",
+    "type": "ftp",
+    "stream": "http://10.99.99.99/player.php?stream=sports/1",
+    "referer": "http://10.99.99.99/",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "FTP Movie Channel",
+    "logo": "https://example.com/logos/movies.png",
+    "type": "ftp",
+    "stream": "http://10.99.99.99/player.php?stream=movies/25",
+    "referer": "http://10.99.99.99/",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "FTP News Channel",
+    "logo": "https://example.com/logos/news.png",
+    "type": "ftp",
+    "stream": "http://10.99.99.99/player.php?stream=news/3",
+    "referer": "http://10.99.99.99/",
+    "userAgent": "Mozilla/5.0",
+    "cookie": "auth_token=abc123"
+  }
+]
