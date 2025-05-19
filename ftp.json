@@ -30,12 +30,6 @@
     "stream": "http://10.99.99.99/player.php?stream=bk/1"
   },
   {
-    "name": "Euro Sports HD",
-    "logo": "http://tvassets.roarzone.info/images/euro_sports_hd.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=toffee/euro_sports_hd"
-  },
-  {
     "name": "Dubai Sports",
     "logo": "http://tvassets.roarzone.info/images/dubai-sports.png",
     "type": "ftp",
@@ -52,18 +46,6 @@
     "logo": "http://tvassets.roarzone.info/images/28.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/28"
-  },
-  {
-    "name": "Ten Cricket",
-    "logo": "http://tvassets.roarzone.info/images/ten_cricket.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=toffee/ten_cricket"
-  },
-  {
-    "name": "Ten Sports",
-    "logo": "http://tvassets.roarzone.info/images/tensports.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/tensports"
   },
   {
     "name": "Star jalsha",
@@ -108,12 +90,6 @@
     "stream": "http://10.99.99.99/player.php?stream=bk/72"
   },
   {
-    "name": "Sony Entertainment Television HD",
-    "logo": "http://tvassets.roarzone.info/images/38.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/38"
-  },
-  {
     "name": "Sony MAX",
     "logo": "http://tvassets.roarzone.info/images/77.png",
     "type": "ftp",
@@ -124,12 +100,6 @@
     "logo": "http://tvassets.roarzone.info/images/68.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/68"
-  },
-  {
-    "name": "Zee Tv HD",
-    "logo": "http://tvassets.roarzone.info/images/40.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/40"
   },
   {
     "name": "Zee cinema",
@@ -162,22 +132,10 @@
     "stream": "http://10.99.99.99/player.php?stream=bk/83"
   },
   {
-    "name": "Sony BBC Earth HD",
-    "logo": "http://tvassets.roarzone.info/images/44.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/44"
-  },
-  {
     "name": "National Geo",
     "logo": "http://tvassets.roarzone.info/images/35.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/35"
-  },
-  {
-    "name": "Animal Planet HD",
-    "logo": "http://tvassets.roarzone.info/images/animalplanet.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=toffee/animal_planet_hd"
   },
   {
     "name": "Hungama",
