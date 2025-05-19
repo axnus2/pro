@@ -1,63 +1,33 @@
 [
-{
-    "name": "test",
-    "logo": "http://tvassets.roarzone.info/images/102.png",
-    "type": "ftp",
-    "stream": "https://evfancy.link/ch.php?id=8"
-  },
   {
-    "name": "Channel 102",
+    "name": "T-Sports",
     "logo": "http://tvassets.roarzone.info/images/102.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/102"
   },
   {
-    "name": "Channel 25",
+    "name": "Star Sports 1",
     "logo": "http://tvassets.roarzone.info/images/25.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/25"
   },
   {
-    "name": "Channel 26",
+    "name": "Star Sports 2",
     "logo": "http://tvassets.roarzone.info/images/26.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/26"
   },
   {
-    "name": "Channel 37",
+    "name": "Sports 18",
     "logo": "http://tvassets.roarzone.info/images/37.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/37"
   },
   {
-    "name": "Channel 1",
+    "name": "G-TV",
     "logo": "http://tvassets.roarzone.info/images/1.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/1"
-  },
-  {
-    "name": "Channel 20",
-    "logo": "http://tvassets.roarzone.info/images/20.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/20"
-  },
-  {
-    "name": "Channel 21",
-    "logo": "http://tvassets.roarzone.info/images/21.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/21"
-  },
-  {
-    "name": "Channel 22",
-    "logo": "http://tvassets.roarzone.info/images/22.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/22"
-  },
-  {
-    "name": "Channel 24",
-    "logo": "http://tvassets.roarzone.info/images/24.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/24"
   },
   {
     "name": "Euro Sports HD",
@@ -72,13 +42,13 @@
     "stream": "http://10.99.99.99/player.php?stream=bk/dubai-sports"
   },
   {
-    "name": "Channel 27",
+    "name": "Star Sports Select 1",
     "logo": "http://tvassets.roarzone.info/images/27.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/27"
   },
   {
-    "name": "Channel 28",
+    "name": "Star Sports Select 2",
     "logo": "http://tvassets.roarzone.info/images/28.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/28"
@@ -96,121 +66,109 @@
     "stream": "http://10.99.99.99/player.php?stream=bk/tensports"
   },
   {
-    "name": "Channel 30",
+    "name": "Star jalsha",
     "logo": "http://tvassets.roarzone.info/images/30.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/30"
   },
   {
-    "name": "Channel 31",
+    "name": "Jalsha Movies",
     "logo": "http://tvassets.roarzone.info/images/31.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/31"
   },
   {
-    "name": "Channel 34",
+    "name": "Zee Bangla",
     "logo": "http://tvassets.roarzone.info/images/34.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/34"
   },
   {
-    "name": "Channel 29",
+    "name": "Zee Bangla Cinema",
     "logo": "http://tvassets.roarzone.info/images/29.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/29"
   },
   {
-    "name": "Channel 66",
+    "name": "Colors bangla",
     "logo": "http://tvassets.roarzone.info/images/66.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/66"
   },
   {
-    "name": "Channel 33",
+    "name": "Sony AAth",
     "logo": "http://tvassets.roarzone.info/images/33.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/33"
   },
   {
-    "name": "Channel 72",
+    "name": "Star Gold HD",
     "logo": "http://tvassets.roarzone.info/images/75.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/72"
   },
   {
-    "name": "Channel 38",
+    "name": "Sony Entertainment Television HD",
     "logo": "http://tvassets.roarzone.info/images/38.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/38"
   },
   {
-    "name": "Channel 77",
+    "name": "Sony MAX",
     "logo": "http://tvassets.roarzone.info/images/77.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/77"
   },
   {
-    "name": "Channel 68",
+    "name": "Colors HD",
     "logo": "http://tvassets.roarzone.info/images/68.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/68"
   },
   {
-    "name": "Channel 40",
+    "name": "Zee Tv HD",
     "logo": "http://tvassets.roarzone.info/images/40.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/40"
   },
   {
-    "name": "Channel 76",
+    "name": "Zee cinema",
     "logo": "http://tvassets.roarzone.info/images/76.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/76"
   },
   {
-    "name": "Channel 67",
+    "name": "& TV",
     "logo": "http://tvassets.roarzone.info/images/67.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/67"
   },
   {
-    "name": "Channel 74",
+    "name": "& Picture",
     "logo": "http://tvassets.roarzone.info/images/74.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/74"
   },
   {
-    "name": "Channel 100",
+    "name": "b4u",
     "logo": "http://tvassets.roarzone.info/images/100.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/100"
   },
   {
-    "name": "Channel 58",
-    "logo": "http://tvassets.roarzone.info/images/58.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/58"
-  },
-  {
-    "name": "Channel 48",
-    "logo": "http://tvassets.roarzone.info/images/48.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/48"
-  },
-  {
-    "name": "Channel 83",
+    "name": "Discovary",
     "logo": "http://tvassets.roarzone.info/images/43.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/83"
   },
   {
-    "name": "Channel 44",
+    "name": "Sony BBC Earth HD",
     "logo": "http://tvassets.roarzone.info/images/44.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/44"
   },
   {
-    "name": "Channel 35",
+    "name": "National Geo",
     "logo": "http://tvassets.roarzone.info/images/35.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/35"
@@ -222,208 +180,94 @@
     "stream": "http://10.99.99.99/player.php?stream=toffee/animal_planet_hd"
   },
   {
-    "name": "Channel 79",
+    "name": "Hungama",
     "logo": "http://tvassets.roarzone.info/images/79.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/79"
   },
   {
-    "name": "Channel 55",
+    "name": "Nick",
     "logo": "http://tvassets.roarzone.info/images/55.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/55"
   },
   {
-    "name": "Channel 59",
-    "logo": "http://tvassets.roarzone.info/images/59.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/59"
-  },
-  {
-    "name": "Channel 13",
+    "name": "Jomuna News",
     "logo": "http://tvassets.roarzone.info/images/13.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/13"
   },
   {
-    "name": "Channel 65",
+    "name": "Ekushe TV",
     "logo": "http://tvassets.roarzone.info/images/65.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/65"
   },
   {
-    "name": "Asian TV",
-    "logo": "http://tvassets.roarzone.info/images/62.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=edge/asian-tv"
-  },
-  {
-    "name": "Channel 2",
-    "logo": "http://tvassets.roarzone.info/images/2.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/2"
-  },
-  {
-    "name": "Channel 49",
-    "logo": "http://tvassets.roarzone.info/images/49.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/49"
-  },
-  {
-    "name": "Channel 3",
+    "name": "Bangla vision",
     "logo": "http://tvassets.roarzone.info/images/3.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/3"
   },
   {
-    "name": "Channel 19",
-    "logo": "http://tvassets.roarzone.info/images/19.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/19"
-  },
-  {
-    "name": "Channel 61",
+    "name": "Boishaki TV",
     "logo": "http://tvassets.roarzone.info/images/61.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/61"
   },
   {
-    "name": "Channel 53",
-    "logo": "http://tvassets.roarzone.info/images/53.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/53"
-  },
-  {
-    "name": "Channel 84",
-    "logo": "http://tvassets.roarzone.info/images/84.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/84"
-  },
-  {
-    "name": "Channel 5",
-    "logo": "http://tvassets.roarzone.info/images/5.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/5"
-  },
-  {
-    "name": "Channel 4",
-    "logo": "http://tvassets.roarzone.info/images/4.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/4"
-  },
-  {
-    "name": "Channel 6",
+    "name": "Channel I",
     "logo": "http://tvassets.roarzone.info/images/6.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/6"
   },
   {
-    "name": "Channel 7",
+    "name": "DBC",
     "logo": "http://tvassets.roarzone.info/images/7.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/7"
   },
   {
-    "name": "Channel 8",
+    "name": "Dipto TV",
     "logo": "http://tvassets.roarzone.info/images/8.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/8"
   },
   {
-    "name": "Channel 9",
-    "logo": "http://tvassets.roarzone.info/images/9.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/9"
-  },
-  {
-    "name": "Channel 10",
-    "logo": "http://tvassets.roarzone.info/images/10.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/10"
-  },
-  {
-    "name": "Channel 11",
+    "name": "Indipendent Tv",
     "logo": "http://tvassets.roarzone.info/images/11.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/11"
   },
   {
-    "name": "Channel 12",
+    "name": "Masranga Tv",
     "logo": "http://tvassets.roarzone.info/images/12.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/12"
   },
   {
-    "name": "Channel 51",
-    "logo": "http://tvassets.roarzone.info/images/51.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/51"
-  },
-  {
-    "name": "Channel 50",
-    "logo": "http://tvassets.roarzone.info/images/50.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/50"
-  },
-  {
-    "name": "Channel 86",
-    "logo": "http://tvassets.roarzone.info/images/86.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/86"
-  },
-  {
-    "name": "Channel 56",
-    "logo": "http://tvassets.roarzone.info/images/56.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/56"
-  },
-  {
-    "name": "Channel 18",
+    "name": "Channel I HD",
     "logo": "http://tvassets.roarzone.info/images/18.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/18"
   },
   {
-    "name": "Channel 54",
+    "name": "NTV",
     "logo": "http://tvassets.roarzone.info/images/54.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/54"
   },
   {
-    "name": "Channel 14",
+    "name": "RTV",
     "logo": "http://tvassets.roarzone.info/images/14.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/14"
   },
   {
-    "name": "Channel 15",
-    "logo": "http://tvassets.roarzone.info/images/15.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/15"
-  },
-  {
-    "name": "Channel 88",
-    "logo": "http://tvassets.roarzone.info/images/88.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/88"
-  },
-  {
-    "name": "Channel 17",
+    "name": "Somoy News",
     "logo": "http://tvassets.roarzone.info/images/17.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/17"
-  },
-  {
-    "name": "Ekhon TV",
-    "logo": "http://tvassets.roarzone.info/images/ekhon-tv.jpg",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=ext/ekhon-tv"
-  },
-  {
-    "name": "Bijoy TV",
-    "logo": "http://tvassets.roarzone.info/images/bijoy-tv.jpg",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=ext/bijoy-tv"
   },
   {
     "name": "Star Movies",
@@ -432,33 +276,21 @@
     "stream": "http://10.99.99.99/player.php?stream=bk/starmovies"
   },
   {
-    "name": "Channel 69",
-    "logo": "http://tvassets.roarzone.info/images/69.png",
-    "type": "ftp",
-    "stream": "http://10.99.99.99/player.php?stream=bk/69"
-  },
-  {
-    "name": "Channel 41",
+    "name": "Sony PIX",
     "logo": "http://tvassets.roarzone.info/images/41.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/41"
   },
   {
-    "name": "Channel 85",
+    "name": "DW",
     "logo": "http://tvassets.roarzone.info/images/85.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/85"
   },
   {
-    "name": "Channel 89",
+    "name": "AL-Jajira",
     "logo": "http://tvassets.roarzone.info/images/89.png",
     "type": "ftp",
     "stream": "http://10.99.99.99/player.php?stream=bk/89"
-  },
-  {
-    "name": "Channel 2",
-    "logo": "https://example.com/logo2.png",
-    "type": "m3u8",
-    "stream": "http://10.10.10.2/live/fnf001/index.m3u8"
   }
 ]
