@@ -2,8 +2,5 @@
   "name": "FTP Sports Channel",
   "logo": "https://example.com/logos/sports.png",
   "type": "ftp",
-  "ftpServer": "http://10.99.99.99/player.php",
-  "ftpPath": "bk/25",
-  "referer": "http://10.99.99.99/",
-  "userAgent": "Mozilla/5.0"
+  "ftpServer": "http://10.99.99.99/player.php?stream=bk/25",
 }
