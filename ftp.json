@@ -1,6 +1,8 @@
 {
-  "name": "FTP Sports Channel",
-  "logo": "https://example.com/logos/sports.png",
+  "name": "Channel 111 Name",
+  "logo": "https://example.com/logo.png",
   "type": "ftp",
   "ftpServer": "http://10.99.99.99/player.php?stream=bk/25",
+  "referer": "http://10.99.99.99/",
+  "userAgent": "Mozilla/5.0"
 }
