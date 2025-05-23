@@ -18,5 +18,11 @@
   "referer": "",
   "userAgent": "Mozilla/5.0",
   "origin": ""
-}
+},
+  {
+    "name": "Enter10 Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
+    "type": "m3u8",
+    "stream": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+  },
 ]
