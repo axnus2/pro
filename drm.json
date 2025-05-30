@@ -13,8 +13,8 @@
   "name": "willow",
   "logo": "https://images-cdn1.welcomesoftware.com/assets/Willow+TV+on+DIRECTV.png/Zz1hYjIzMjJjMjVjMDUxMWVlYjdiNTg2ZTAyMGU2YzNmOA==?width=1200",
   "type": "drm",
-  "stream": "https://abgqjfuaaaaaaaammnuyzlrmsxiev.efa74adcfa3746b0a6c03bd15122d8f5.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6f63bcjl8j/out/v1/77acfa8f825f4521925e72b556ff0cdb/cenc.mpd",
-  "drm": "938a4889ebab004e05d942de5dde528c:beec3675cab20450d10084f03fbdf88d",
+  "stream": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/j1guuk4jr0/out/v1/3fc018b1dcdd4e6cad4d0dbf397b6d81/cenc.mpd",
+  "drm": "2c828029d38945c877e683b07525d672:3c355ccf8b4dde1b32d8eea0487a4ac7",
   "referer": "",
   "userAgent": "Mozilla/5.0",
   "origin": ""
