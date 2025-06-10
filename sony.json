@@ -106,5 +106,35 @@
     "logo": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/npnyqn.png",
     "type": "m3u8",
     "stream": "https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8"
+  }.
+    {
+    "name": "&Pictures HD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png",
+    "type": "m3u8",
+    "stream": "https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8"
+  },
+  {
+    "name": "&flix HD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png",
+    "type": "m3u8",
+    "stream": "https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8"
+  },
+  {
+    "name": "Zee Cinemalu HD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_list/1170x658withlogoe8f8c52041fb4e1bbe03ea82cf72e557.png",
+    "type": "m3u8",
+    "stream": "https://live.drmlive-02.workers.dev/zee/zeecinemalu.m3u8"
+  },
+  {
+    "name": "&Prive HD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png",
+    "type": "m3u8",
+    "stream": "https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8"
+  },
+  {
+    "name": "&xplorHD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png",
+    "type": "m3u8",
+    "stream": "https://live.drmlive-02.workers.dev/zee/209.m3u8"
   }
 ]
