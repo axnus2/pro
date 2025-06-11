@@ -1,8 +1,5 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:6
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1
+
 #EXTINF:6.000,
 https://tsvod.score806.cc/vod/uk_premiersports2-1749602700-7800.mp4/tracks-v1a1/segment1.ts
 #EXTINF:6.000,
