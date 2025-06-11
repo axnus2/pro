@@ -1,5 +1,9 @@
 #EXTM3U
-
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:6
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-KEY:METHOD=AES-128,IV=0x3030303030303030303030306848f060,URI="https://api.maxliv.top/key.php?key=https://ssl.azencode.com/vod/key-user.php?file=vod/uk_premiersports2-1749602700-7800.mp4&number=1&token=xAXD9RCV",KEYFORMAT="identity"
 #EXTINF:6.000,
 https://tsvod.score806.cc/vod/uk_premiersports2-1749602700-7800.mp4/tracks-v1a1/segment1.ts
 #EXTINF:6.000,
