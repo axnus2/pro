@@ -10,20 +10,56 @@
   "origin": ""
 },
   {
-  "name": "willow",
-  "logo": "https://images-cdn1.welcomesoftware.com/assets/Willow+TV+on+DIRECTV.png/Zz1hYjIzMjJjMjVjMDUxMWVlYjdiNTg2ZTAyMGU2YzNmOA==?width=1200",
-  "type": "drm",
-  "stream": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/j1guuk4jr0/out/v1/3fc018b1dcdd4e6cad4d0dbf397b6d81/cenc.mpd",
-  "drm": "2c828029d38945c877e683b07525d672:3c355ccf8b4dde1b32d8eea0487a4ac7",
-  "referer": "",
-  "userAgent": "Mozilla/5.0",
-  "origin": ""
-},
-  {
     "name": "Enter10 Bangla",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
     "type": "m3u8",
     "stream": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+  },
+  {
+    "name": "willow",
+    "logo": "https://images-cdn1.welcomesoftware.com/assets/Willow+TV+on+DIRECTV.png/Zz1hYjIzMjJjMjVjMDUxMWVlYjdiNTg2ZTAyMGU2YzNmOA==?width=1200",
+    "type": "drm",
+    "stream": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/j1guuk4jr0/out/v1/3fc018b1dcdd4e6cad4d0dbf397b6d81/cenc.mpd",
+    "drm": "2c828029d38945c877e683b07525d672:3c355ccf8b4dde1b32d8eea0487a4ac7",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
+  },
+  {
+    "name": "zing",
+    "type": "drm",
+    "stream": "https://otttv.co.in/d2h/livestream/zing/manifest.mpd",
+    "drm": "f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
+  },
+  {
+    "name": "zee-action",
+    "type": "drm",
+    "stream": "https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd",
+    "drm": "9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
+  },
+  {
+    "name": "zeecinemahd",
+    "type": "drm",
+    "stream": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
+    "drm": "f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
+  },
+  {
+    "name": "pictures",
+    "type": "drm",
+    "stream": "https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd",
+    "drm": "8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
   },
 {
     "name": " Housefull 5",
