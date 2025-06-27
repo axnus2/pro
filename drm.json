@@ -27,6 +27,7 @@
   },
   {
     "name": "zing",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zing_TV_logo.png/640px-Zing_TV_logo.png",
     "type": "drm",
     "stream": "https://otttv.co.in/d2h/livestream/zing/manifest.mpd",
     "drm": "f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be",
@@ -36,6 +37,7 @@
   },
   {
     "name": "zee-action",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Zee_Action_logo.png/640px-Zee_Action_logo.png",
     "type": "drm",
     "stream": "https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd",
     "drm": "9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7",
@@ -45,6 +47,7 @@
   },
   {
     "name": "zeecinemahd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zee_Cinema_HD_new_logo.png/640px-Zee_Cinema_HD_new_logo.png",
     "type": "drm",
     "stream": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
     "drm": "f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1",
@@ -54,17 +57,12 @@
   },
   {
     "name": "pictures",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zee_Pictures_logo.png/640px-Zee_Pictures_logo.png",
     "type": "drm",
     "stream": "https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd",
     "drm": "8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92",
     "referer": "",
     "userAgent": "Mozilla/5.0",
     "origin": ""
-  },
-{
-    "name": " Housefull 5",
-    "logo": "http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p%20HDTC/a_AL_.jpg",
-    "type": "m3u8",
-    "stream": "http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p%20HDTC/Housefull%205%20B%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv"
   }
 ]
