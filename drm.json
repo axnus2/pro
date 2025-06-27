@@ -64,5 +64,70 @@
     "referer": "",
     "userAgent": "Mozilla/5.0",
     "origin": ""
+  },
+{
+    "name": "Sony Max HD",
+    "logo": "https://i.imgur.com/Z2zlXcs.png",
+    "type": "m3u8",
+    "stream": "https://otttv.co.in/d2h/livestream/sony-max/master.m3u8",
+    "drm": "",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": "",
+    "meta": {
+      "group": "Bollywood"
+    }
+  },
+  {
+    "name": "Sony Max 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sony_Max_2_logo.png/640px-Sony_Max_2_logo.png",
+    "type": "m3u8",
+    "stream": "https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8",
+    "drm": "",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": "",
+    "meta": {
+      "group": "Bollywood"
+    }
+  },
+  {
+    "name": "Utsav Gold",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Utsav_Gold_logo.png/640px-Utsav_Gold_logo.png",
+    "type": "m3u8",
+    "stream": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
+    "drm": "",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": "",
+    "meta": {
+      "group": "Bollywood"
+    }
+  },
+  {
+    "name": "Zeebangla",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zee_Bangla_logo.png/640px-Zee_Bangla_logo.png",
+    "type": "drm",
+    "stream": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/main.mpd",
+    "drm": "1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": "",
+    "meta": {
+      "group": "Regional"
+    }
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Zee_Bangla_Cinema_logo.png/640px-Zee_Bangla_Cinema_logo.png",
+    "type": "drm",
+    "stream": "https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd",
+    "drm": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": "",
+    "meta": {
+      "group": "Regional"
+    }
   }
 ]
