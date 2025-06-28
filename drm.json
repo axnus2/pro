@@ -1,19 +1,23 @@
 [
-{
-  "name": "Premium HD",
-  "logo": "https://example.com/logos/premium.png",
-  "type": "drm",
-  "stream": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
-  "drm": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
-  "referer": "",
-  "userAgent": "Mozilla/5.0",
-  "origin": ""
-},
+  {
+    "name": "Premium HD",
+    "logo": "https://example.com/logos/premium.png",
+    "type": "drm",
+    "stream": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+    "drm": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
+  },
   {
     "name": "Enter10 Bangla",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
     "type": "m3u8",
-    "stream": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+    "stream": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+    "drm": "",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
   },
   {
     "name": "zing",
@@ -55,7 +59,7 @@
     "userAgent": "Mozilla/5.0",
     "origin": ""
   },
-{
+  {
     "name": "Sony Max HD",
     "logo": "https://i.imgur.com/Z2zlXcs.png",
     "type": "m3u8",
@@ -63,7 +67,7 @@
     "drm": "",
     "referer": "",
     "userAgent": "Mozilla/5.0",
-    "origin": "",
+    "origin": ""
   },
   {
     "name": "Sony Max 2",
@@ -73,7 +77,7 @@
     "drm": "",
     "referer": "",
     "userAgent": "Mozilla/5.0",
-    "origin": "",
+    "origin": ""
   },
   {
     "name": "Utsav Gold",
@@ -83,7 +87,7 @@
     "drm": "",
     "referer": "",
     "userAgent": "Mozilla/5.0",
-    "origin": "",
+    "origin": ""
   },
   {
     "name": "Zeebangla",
@@ -93,7 +97,7 @@
     "drm": "1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe",
     "referer": "",
     "userAgent": "Mozilla/5.0",
-    "origin": "",
+    "origin": ""
   },
   {
     "name": "Zee Bangla Cinema",
@@ -103,7 +107,26 @@
     "drm": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
     "referer": "",
     "userAgent": "Mozilla/5.0",
-    "origin": "",
+    "origin": ""
+  },
+  {
+    "name": "Gopal Var 24/7",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/sony4/landscape_thumb/gopal_bhar_Landscape_Thumb.jpg",
+    "type": "m3u8",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
+    "drm": "",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
+  },
+  {
+    "name": "Hinde Movies",
+    "logo": "https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=",
+    "type": "m3u8",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8",
+    "drm": "",
+    "referer": "",
+    "userAgent": "Mozilla/5.0",
+    "origin": ""
   }
-  
 ]
