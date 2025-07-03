@@ -1,13 +1,5 @@
 [
   {
-    "name": "Channel 102",
-    "logo": "http://tvassets.roarzone.info/images/102.png",
-    "type": "embed",
-    "embed": "http://10.99.99.99/player.php?stream=102",
-    "cookie": "",
-    "referer": ""
-  },
-  {
     "name": "T-Sports",
     "logo": "http://tvassets.roarzone.info/images/102.png",
     "type": "embed",
