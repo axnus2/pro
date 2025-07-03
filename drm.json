@@ -12,6 +12,14 @@
   {
     "name": "Enter10 Bangla",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
+    "type": "embed",
+    "embed": "http://10.99.99.99/player.php?stream=bk/102",
+    "cookie": "",
+    "referer": ""
+  },
+  {
+    "name": "Enter10 Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
     "type": "m3u8",
     "stream": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
     "drm": "",
