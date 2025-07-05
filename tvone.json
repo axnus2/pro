@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Channel",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/sony4/landscape_thumb/gopal_bhar_Landscape_Thumb.jpg",
+        "link": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
+        "Clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    },
+    {
+        "name": "Channel 2",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
+        "link": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+        "Clearkey": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    },
+    {
+        "name": "Channel 3",
+        "logo": "http://tvassets.roarzone.info/images/102.png",
+        "link": "http://10.99.99.99/player.php?stream=102",
+        "Clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    }
+]
