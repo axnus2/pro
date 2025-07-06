@@ -21,6 +21,16 @@
     },
     {
         "name": "Channel 3",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
+        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+        "Clearkey": "{\n  \"keys\": [\n    {\n      \"kty\": \"oct\",\n      \"k\": \"v9BNb1RMnMTTXLE6tneFhw\",\n      \"kid\": \"APnzwHg1NrjukXBOI7eAFg\"\n    }\n  ],\n  \"type\": \"temporary\"\n}",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    },
+    {
+        "name": "Channel 3",
         "logo": "http://tvassets.roarzone.info/images/102.png",
         "link": "http://10.99.99.99/player.php?stream=102",
         "Clearkey": "",
