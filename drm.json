@@ -12,8 +12,8 @@
   {
     "name": "Enter10 Bangla",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
-    "type": "embed",
-    "embed": "http://10.99.99.99/player.php?stream=bk/102",
+    "type": "m3u8",
+    "m3u8": http://10.16.100.206/ftps3/ftps3d6/Movies/South%20Indian%20(Hindi%20Dubbed)/Rang%20De%20(2021)%201080p%20WEBDL.mkv",
     "cookie": "",
     "referer": ""
   },
