@@ -38,5 +38,15 @@
         "userAgent": "",
         "Origin": "",
         "referer": ""
+    },
+        {
+        "name": "Channel 4",
+        "logo": "http://tvassets.roarzone.info/images/102.png",
+        "link": "http://10.99.99.99/player.php?stream=80",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
     }
 ]
