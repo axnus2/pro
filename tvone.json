@@ -48,5 +48,15 @@
         "userAgent": "",
         "Origin": "",
         "referer": ""
+    },
+            {
+        "name": "Channel 5 R",
+        "logo": "http://tvassets.roarzone.info/images/102.png",
+        "link": "http://tv.roarzone.info/player.php?stream=bk/102",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
     }
 ]
