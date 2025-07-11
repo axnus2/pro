@@ -1,5 +1,5 @@
 {
-  "requiresUpdate": false,
+  "requiresUpdate": true,
   "isForceUpdate": false,
   "latestVersion": "2.0",
   "message": "New performance improvements and UI enhancements added.",
