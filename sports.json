@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Cricket",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png"
+    },
+    {
+        "name": "Football",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
+    },
+    {
+        "name": "Boxing",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/03/boxingg.png"
+    },
+    {
+        "name": "Rugby",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/rugby70.png"
+    },
+    {
+        "name": "Motorsports",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/03/motorsportss.png"
+    },
+    {
+        "name": "Basketball",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png"
+    },
+    {
+        "name": "Baseball",
+        "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png"
+    }
+]
