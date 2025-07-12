@@ -1,0 +1,46 @@
+[
+  {
+    "sport": {
+      "name": "Football"
+    },
+    "uniqueTournament": {
+      "name": "FIFA Club World Cup",
+      "image": "https://img.sofascore.com/api/v1/unique-tournament/477/image"
+    },
+    "roundInfo": {
+      "name": "Final"
+    },
+    "homeTeam": {
+      "name": "Italy",
+      "image": "https://api.sofascore.com/api/v1/team/22025/image"
+    },
+    "awayTeam": {
+      "name": "Spain",
+      "image": "https://api.sofascore.com/api/v1/team/37371/image"
+    },
+    "slug": "spain-italy",
+    "startTimestamp": 1752260400
+  },
+  {
+    "sport": {
+      "name": "Football"
+    },
+    "uniqueTournament": {
+      "name": "FIFA Club World Cup",
+      "image": "https://img.sofascore.com/api/v1/unique-tournament/477/image"
+    },
+    "roundInfo": {
+      "name": "Final"
+    },
+    "homeTeam": {
+      "name": "Portugal",
+      "image": "https://api.sofascore.com/api/v1/team/22027/image"
+    },
+    "awayTeam": {
+      "name": "Belgium",
+      "image": "https://api.sofascore.com/api/v1/team/38081/image"
+    },
+    "slug": "belgium-portugal",
+    "startTimestamp": 1752260400
+  }
+]
