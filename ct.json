@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DAZN",
+    "image": "https://www.pikpng.com/pngl/b/436-4362193_this-is-a-huge-signing-for-dazn-now.png",
+    "url": "https://livegame24x.vercel.app/toffee_channels.json"
+  },
+  {
+    "name": "ESPN",
+    "image": "https://m.media-amazon.com/images/I/41lChb5Q+KL.png",
+    "url": "https://livegame24x.vercel.app/toffee_channels.m3u"
+  }
+]
