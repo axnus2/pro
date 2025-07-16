@@ -23,6 +23,23 @@
     },
     {
         "name": "Server 4",
+        "link": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+        "api": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "m8Mt9Iou-sMAcrflxoO80Q",
+                    "kid": "mv1y8gVzABwjZy0hWIkqXw"
+                }
+            ],
+            "type": "temporary"
+        },
+        "referer": "https://livegame24x.vercel.app",
+        "origin": "https://livegame24x.vercel.app",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "Server 5",
         "link": "",
         "api": "",
         "embed": "http://10.99.99.99/player.php?stream=19",
