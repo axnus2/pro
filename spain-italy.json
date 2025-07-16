@@ -21,6 +21,16 @@
         "origin": "",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
     },
+       {
+        "name": "Server 4",
+        "link": "",
+        "api": "",
+        "embed": "http://10.99.99.99/player.php?stream=47",
+        "cookie": "",
+        "referer": "",
+        "origin": "",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
     {
         "name": "Server 5",
         "link": "",
