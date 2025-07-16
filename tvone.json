@@ -8,5 +8,15 @@
         "userAgent": "",
         "Origin": "",
         "referer": ""
+    },
+    {
+        "name": "JALSHA Movies",
+        "logo": "http://10.99.99.99/assets/images/JALSHA%20MOVIES%20HD1745034005.png",
+        "link": "http://10.99.99.99/player.php?stream=19",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
     }
 ]
