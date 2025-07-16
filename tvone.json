@@ -30,16 +30,6 @@
         "referer": ""
     },
     {
-        "name": "Channel 4",
-        "logo": "http://tvassets.roarzone.info/images/102.png",
-        "link": "http://10.99.99.99/player.php?stream=80",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
         "name": "MBC",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MBC_Action_Logo.svg/640px-MBC_Action_Logo.svg.png",
         "link": "https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd",
