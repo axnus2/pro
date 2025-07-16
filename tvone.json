@@ -18,15 +18,5 @@
         "userAgent": "",
         "Origin": "",
         "referer": ""
-    },
-    {
-        "name": "MBC",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MBC_Action_Logo.svg/640px-MBC_Action_Logo.svg.png",
-        "link": "https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd",
-        "clearkey": "61500ce9a45342b897ba868f4fc59910:93a1c516e6b4fc91fa88c59922f6d3d7",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
     }
 ]
