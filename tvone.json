@@ -21,9 +21,9 @@
     },
     {
         "name": "Channel 3",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdR1RV5L7M7Gcer1F7nnVkumgo-Eaq8uX7w&s",
-        "link": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
-        "clearkey": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
+        "logo": "http://10.99.99.99/assets/images/JALSHA%20MOVIES%20HD1745034005.png",
+        "link": "http://10.99.99.99/player.php?stream=19",
+        "clearkey": "",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
