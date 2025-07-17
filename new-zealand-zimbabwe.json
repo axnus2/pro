@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Server 1",
+        "link": "https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8",
+        "api": ""
+    },
+    {
+        "name": "Server 2",
+        "link": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+        "api": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
+        "referer": "https://livegame24x.vercel.app",
+        "origin": "https://livegame24x.vercel.app",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "Server 3",
+        "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+        "api": "",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1752757695:KeyName=prod_linear:Signature=5u62GNoszkarI3kd_i9YPNb6C9MIEiKWOULcGdaI6dFi1f7lzfNG226S57wy69N9ZSHr83NMa5rOugFmjeeCBA",
+        "referer": "",
+        "origin": "",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+       {
+        "name": "Server 4",
+        "link": "",
+        "api": "",
+        "embed": "http://10.99.99.99/player.php?stream=47",
+        "cookie": "",
+        "referer": "",
+        "origin": "",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "Server 5",
+        "link": "",
+        "api": "",
+        "embed": "https://la14hd.com/vivo/canales.php?stream=espn6",
+        "cookie": "",
+        "referer": "",
+        "origin": "",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    }
+]
