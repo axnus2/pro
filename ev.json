@@ -1,5 +1,5 @@
 [
-               {
+    {
         "sport": {
             "name": "Cricket"
         },
@@ -43,7 +43,7 @@
         "slug": "spain-italy",
         "startTimestamp": 1752347406
     },
-     {
+    {
         "sport": {
             "name": "Football"
         },
