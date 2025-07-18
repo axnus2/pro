@@ -43,6 +43,28 @@
         "slug": "new-zealand-zimbabwe",
         "startTimestamp": 1752837885
     },
+               {
+        "sport": {
+            "name": "Cricket"
+        },
+        "uniqueTournament": {
+            "name": "Zimbabwe T20I Tri Series",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1343/image"
+        },
+        "roundInfo": {
+            "name": "World"
+        },
+        "homeTeam": {
+            "name": "Zimbabwe",
+            "image": "https://api.sofascore.com/api/v1/team/187745/image"
+        },
+        "awayTeam": {
+            "name": "New Zealand",
+            "image": "https://api.sofascore.com/api/v1/team/187755/image"
+        },
+        "slug": "new-zealand-zimbabwe",
+        "startTimestamp": 1752817827
+    },
     {
         "sport": {
             "name": "Football"
