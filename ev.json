@@ -21,28 +21,6 @@
         "slug": "spain-italy",
         "startTimestamp": 1752403767
     },
-        {
-        "sport": {
-            "name": "Cricket"
-        },
-        "uniqueTournament": {
-            "name": "Zimbabwe T20I Tri Series",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1343/image"
-        },
-        "roundInfo": {
-            "name": "World"
-        },
-        "homeTeam": {
-            "name": "Zimbabwe",
-            "image": "https://api.sofascore.com/api/v1/team/187745/image"
-        },
-        "awayTeam": {
-            "name": "New Zealand",
-            "image": "https://api.sofascore.com/api/v1/team/187755/image"
-        },
-        "slug": "new-zealand-zimbabwe",
-        "startTimestamp": 1752836400
-    },
            {
         "sport": {
             "name": "Cricket"
