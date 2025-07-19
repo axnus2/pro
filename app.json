@@ -1,1 +1,24 @@
-
+[
+    {
+        "sport": {
+            "name": "Football"
+        },
+        "uniqueTournament": {
+            "name": "FIFA Club World Cup",
+            "image": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/477\/image"
+        },
+        "roundInfo": {
+            "name": "Final"
+        },
+        "homeTeam": {
+            "name": "Italy X",
+            "image": "https:\/\/api.sofascore.com\/api\/v1\/team\/22025\/image"
+        },
+        "awayTeam": {
+            "name": "Spain X",
+            "image": "https:\/\/api.sofascore.com\/api\/v1\/team\/37371\/image"
+        },
+        "slug": "spain-italy",
+        "startTimestamp": 1752819967
+    }
+]
