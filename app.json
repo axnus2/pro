@@ -20,5 +20,27 @@
         },
         "slug": "spain-italy",
         "startTimestamp": 1752819967
+    },
+    {
+        "sport": {
+            "name": "Football"
+        },
+        "uniqueTournament": {
+            "name": "Women's Euro",
+            "image": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/477\/image"
+        },
+        "roundInfo": {
+            "name": "Round 27"
+        },
+        "homeTeam": {
+            "name": "Spain X",
+            "image": "https:\/\/api.sofascore.com\/api\/v1\/team\/37371\/image"
+        },
+        "awayTeam": {
+            "name": "Switzerland X",
+            "image": "https:\/\/api.sofascore.com\/api\/v1\/team\/38103\/image"
+        },
+        "slug": "switzerland-spain",
+        "startTimestamp": 1752865200
     }
 ]
