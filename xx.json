@@ -18,5 +18,15 @@
         "userAgent": "",
         "Origin": "",
         "referer": ""
+    },
+    {
+        "name": "T Sports",
+        "logo": "http://10.99.99.99/assets/images/T%20SPORTS1744972630.png",
+        "link": "http://10.99.99.99/player.php?stream=1",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
     }
 ]
