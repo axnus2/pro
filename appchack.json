@@ -1,7 +1,7 @@
 {
   "requiresUpdate": true,
-  "isForceUpdate": true,
-  "latestVersion": "1.0",
+  "isForceUpdate": false,
+  "latestVersion": "1.1",
   "message": "New performance improvements and UI enhancements added.",
   "updateUrl": "https://github.com/Daniel-Andress1/Okaybye/raw/refs/heads/main/MaxLIV-1.0.apk",
   "webURL": "https://live24i.com",
