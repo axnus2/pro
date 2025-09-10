@@ -1,0 +1,15 @@
+[
+  {
+    "id": "india-united_arab_emirates",
+    "team1": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/uae-cricket.png"
+    },
+    "matchTime": "2025-09-10T14:30:00+00:00",
+    "endTime": ""
+  }
+]
