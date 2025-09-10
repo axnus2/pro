@@ -25,6 +25,58 @@
     "matchTime": "2025-09-10T01:30:00.000Z",
     "endTime": ""
   },
+    {
+    "id": "india-united_arab_emirates",
+    "team1": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/uae-cricket.png"
+    },
+    "matchTime": "2025-09-10T14:30:00+00:00",
+    "endTime": ""
+  },
+  {
+    "id": "mexico-south_korea",
+    "team1": {
+      "name": "Mexico",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bwm-UYwTfjJUNFUZ9UQHn.png"
+    },
+    "team2": {
+      "name": "South Korea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D2nOY1df51Lco9jymr8EA.png"
+    },
+    "matchTime": "2025-09-10T01:30:00.000Z",
+    "endTime": ""
+  },
+    {
+    "id": "india-united_arab_emirates",
+    "team1": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "team2": {
+      "name": "United Arab Emirates",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/uae-cricket.png"
+    },
+    "matchTime": "2025-09-10T14:30:00+00:00",
+    "endTime": ""
+  },
+  {
+    "id": "mexico-south_korea",
+    "team1": {
+      "name": "Mexico",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bwm-UYwTfjJUNFUZ9UQHn.png"
+    },
+    "team2": {
+      "name": "South Korea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D2nOY1df51Lco9jymr8EA.png"
+    },
+    "matchTime": "2025-09-10T01:30:00.000Z",
+    "endTime": ""
+  },
   {
     "id": "ecuador-argentina",
     "team1": {
