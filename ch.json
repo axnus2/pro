@@ -13,6 +13,16 @@
                     "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=jpg&p=true",
                     "channel_url": "https://example.com/stream/tnt-sports1"
                 },
+                 {
+                    "name": "TNT Sports 2",
+                    "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=jpg&p=true",
+                    "channel_url": "https://example.com/stream/tnt-sports1"
+                },
+                 {
+                    "name": "TNT Sports 2",
+                    "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=jpg&p=true",
+                    "channel_url": "https://example.com/stream/tnt-sports1"
+                },
                 {
                     "name": "TNT Sports 3",
                     "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true",
@@ -27,6 +37,21 @@
                     "name": "USA Sports 1",
                     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeE8WHHWAggFuI_0iV4QiuYBZK0c3JNi0cRw&s",
                     "channel_url": "https://example.com/stream/usa-sports1"
+                },
+                 {
+                    "name": "TNT Sports 2",
+                    "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=jpg&p=true",
+                    "channel_url": "https://example.com/stream/tnt-sports1"
+                },
+                 {
+                    "name": "TNT Sports 2",
+                    "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=jpg&p=true",
+                    "channel_url": "https://example.com/stream/tnt-sports1"
+                },
+                 {
+                    "name": "TNT Sports 2",
+                    "logo": "https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=jpg&p=true",
+                    "channel_url": "https://example.com/stream/tnt-sports1"
                 },
                 {
                     "name": "USA Sports 1",
