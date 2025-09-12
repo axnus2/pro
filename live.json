@@ -16,12 +16,22 @@
     },
     {
         "name": "Server 4",
-        "player": "pl1",
-        "ch": "tnt5"
+        "player": "pl2",
+        "stream_link": "tnt5"
     },
     {
         "name": "Server 5",
         "player": "f1",
         "stream_link": "https://dash-hex.pages.dev/oplay?id=ml"
+    },
+    {
+        "name": "Server 6",
+        "player": "pl2",
+        "stream_link": "tnt1"
+    },
+    {
+        "name": "Server 6",
+        "player": "pl2",
+        "stream_link": "astro"
     }
 ]
