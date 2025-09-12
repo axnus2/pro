@@ -1,14 +1,27 @@
 [
   {
     "name": "Server 1",
+    "player": "f1",
     "stream_link": "https://dash-hex.pages.dev/oplay?id=willow"
   },
   {
     "name": "Server 2",
+     "player": "f1",
     "stream_link": "https://dash-hex.pages.dev/oplay?id=tnt4"
   },
   {
     "name": "Server 3",
+     "player": "pl1",
+    "ch": "tnt4"
+  },
+    {
+    "name": "Server 4",
+    "player": "pl1",
+    "stream_link": "tnt5"
+  },
+  {
+    "name": "Server 5",
+     "player": "f1",
     "stream_link": "https://dash-hex.pages.dev/oplay?id=ml"
   }
 ]
