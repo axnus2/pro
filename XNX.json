@@ -1,18 +1,18 @@
 [
     {
-        "name": "Asia Cup 2025 - Willow",
+        "name": "Asia Cup 2025 - SONYLIV",
          "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "clearkey": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
+        "link": "https://livecfmt-mp.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f4cprod-PlaybackConfig/std_lrh-800300010.m3u8?hdnea=exp=1757788201~acl=/*~id=40743062252870263102219908139323~hmac=f1ad73cd9f0b76791ccdb691c3cf0bb1651c1a27838ab55704c32db7695d83aa",
+        "clearkey": "1",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
         "referer": ""
     },
     {
-        "name": "Asia Cup 2025 - Astro",
+        "name": "Asia Cup 2025 - FANCODE",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GAiYyVzZaJDxaBj8L.m3u8",
+        "link": "https://bd-mc-fdlive.fancode.com/mumbai/136734_english_hls_2f1137d78497898ta-di_h264/index.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -32,7 +32,7 @@
     {
         "name": "Asia Cup 2025 - WILLOW 2 CRICKET ",
          "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8ADB4yVzZaJDxaBj8L.m3u8",
+        "link": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTcdacprod-PlaybackConfig/2119921/criccacc1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1757788201~acl=/*~id=40743062252870263102219908139323~hmac=f1ad73cd9f0b76791ccdb691c3cf0bb1651c1a27838ab55704c32db7695d83aa",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
