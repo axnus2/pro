@@ -2,8 +2,8 @@
     {
         "name": "Asia Cup 2025 - SONYLIV",
          "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://livecfmt-mp.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f4cprod-PlaybackConfig/std_lrh-800300010.m3u8?hdnea=exp=1757788201~acl=/*~id=40743062252870263102219908139323~hmac=f1ad73cd9f0b76791ccdb691c3cf0bb1651c1a27838ab55704c32db7695d83aa",
-        "clearkey": "",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nbmvhm9mpk/out/v1/c3a23f5971584c95865ded70c3b3603d/cenc.mpd",
+        "clearkey": "b4958665fa174be1f7e42892b623bfb0:991287900b6f880ca9217c29fc17a461",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
@@ -12,7 +12,7 @@
     {
         "name": "Asia Cup 2025 - FANCODE",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://bd-mc-fdlive.fancode.com/mumbai/136734_english_hls_2f1137d78497898ta-di_h264/index.m3u8",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -32,7 +32,7 @@
     {
         "name": "Asia Cup 2025 - WILLOW 2 CRICKET ",
          "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTcdacprod-PlaybackConfig/2119921/criccacc1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1757788201~acl=/*~id=40743062252870263102219908139323~hmac=f1ad73cd9f0b76791ccdb691c3cf0bb1651c1a27838ab55704c32db7695d83aa",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
