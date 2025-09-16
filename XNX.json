@@ -62,7 +62,7 @@
     {
         "name": "Asia Cup 2025 - Sony Ten 1",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8",
+        "link": "http://10.99.99.99/player.php?stream=74",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
