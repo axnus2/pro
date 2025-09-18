@@ -72,7 +72,7 @@
     {
         "name": "Asia Cup 2025 -",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -82,7 +82,7 @@
     {
         "name": "Asia Cup 2025 -",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -92,7 +92,7 @@
     {
         "name": "SONYLIV-Asia Cup 2025 -",
         "logo": "https://images.slivcdn.com/videoasset_images/manage_file/1000007682/1757352543320193_AsiaCup_2025_GOB_3_Landscape_Thumb_SP_1.jpg?w=1000&q=low",
-        "link": "https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -102,11 +102,11 @@
     {
         "name": "SONYLIV - Asia Cup 2025 -",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://allinonereborn.fun/fcw/live.php?url=https%3A%2F%2Fdqjnt5d1aglzv.cloudfront.net%2Fout%2Fv1%2Fc17faa9ad30f4d42b6bbdb161c8717d6%2Findex.m3u8",
-        "clearkey": "",
+        "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+        "clearkey": "d116f4f4b478e8ed23718b1919ca0612:7627e5b85dec6981e77530822788de0e",
         "cookie": "",
         "userAgent": "",
-        "Origin": "https://allinonereborn.fun/fcw/",
-        "referer": "https://allinonereborn.fun/fcw/"
+        "Origin": "",
+        "referer": ""
     }
 ]
