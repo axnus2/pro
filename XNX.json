@@ -2,8 +2,8 @@
     {
         "name": "Asia Cup 2025 - SONYLIV",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/lscoafr17s/out/v1/d18bb88c0227432d8f14e5f28f78ef99/cenc.mpd",
-        "clearkey": "47535227b6c07c68a43fd83a45f24308:4d0a2b3d0cbc3e66d269fab549beb05a",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4sq4g0s5on/out/v1/6edc867ceaca498c80f12e72400e38d6/cenc.mpd",
+        "clearkey": "fe8bcb24efeab65cd32647c9e828b407:75e4711d9fd429b636b37142f840ce97",
         "cookie": "",
         "userAgent": "Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36",
         "Origin": "",
@@ -12,9 +12,9 @@
     {
         "name": "Asia Cup 2025 - FANCODE",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8",
+        "link": "https://sonymtpristinenew.akamaized.net/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758764482~acl=/*~id=59152404061005392502671833358690~hmac=b4855a82fe21bea854577e2d509020b64e42655785b50eb8c72ddc7120e240f0",
         "clearkey": "",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1758685447:KeyName=prod_live_events:Signature=4P7dz-jeepYvJ81fVijc5HUEbwWDKoxRlxr78oDdh7LmHIpAPvxeoRn2s446OvYQC1LjFC3ybjiDXOqktP4UCg",
+        "cookie": "",
         "userAgent": "",
         "Origin": "",
         "referer": ""
@@ -32,7 +32,7 @@
     {
         "name": "Asia Cup 2025 - WILLOW 2 CRICKET ",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://bd-mc-fdlive.fancode.com/mumbai/136744_english_hls_94e375c9f357971ta-di_h264/index.m3u8",
+        "link": "https://d12.epicquesthero.com:1686/hls/ten1hd.m3u8?md5=ArKZNGs-uFbUDRz2copn4A&expires=1758730704",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -82,7 +82,7 @@
     {
         "name": "Asia Cup 2025 -",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
+        "link": "http://bdix1.himelop-pro.top:8081/astro-hopbdix/index.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
