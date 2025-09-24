@@ -92,7 +92,7 @@
     {
         "name": "SONYLIV-Asia Cup 2025 -",
         "logo": "https://images.slivcdn.com/videoasset_images/manage_file/1000007682/1757352543320193_AsiaCup_2025_GOB_3_Landscape_Thumb_SP_1.jpg?w=1000&q=low",
-        "link": "https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8",
+        "link": "http://10.16.100.214:8080/hls/PtvSportsHD.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
