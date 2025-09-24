@@ -2,7 +2,7 @@
     {
         "name": "STAR JALSHA",
         "logo": "http://10.99.99.99/assets/images/STAR%20JALSHA%20HD1745033819.png",
-        "link": "http://10.99.99.99/player.php?stream=18",
+        "link": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
@@ -12,7 +12,7 @@
     {
         "name": "JALSHA Movies",
         "logo": "http://10.99.99.99/assets/images/JALSHA%20MOVIES%20HD1745034005.png",
-        "link": "http://10.99.99.99/player.php?stream=19",
+        "link": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
