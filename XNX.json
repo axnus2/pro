@@ -2,8 +2,8 @@
     {
         "name": "Willow Asia Cup 2025",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jwsgpgb4sa/out/v1/fba6fb5bc2a8475685d7c699dd59ca3a/cenc.mpd",
-        "clearkey": "d3c924f8358e22b66de5f33733d9f3f0:fad4b95bbbafc7ac3e221851aa29bb04",
+        "link": "https://a168aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/mfijr7ffoy/out/v1/5316f71a2aa9469ca2552a978baf3342/cenc.mpd",
+        "clearkey": "7addb3cfe1fc602a828d47751e30d407:66da726af11aa8742df1f76e31c8d007",
         "cookie": "",
         "userAgent": "Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36",
         "Origin": "",
@@ -12,8 +12,8 @@
     {
         "name": "Asia Cup 2025 - FANCODE",
         "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8",
-        "clearkey": "",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+        "clearkey": "08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
