@@ -1,108 +1,18 @@
 [
     {
-        "name": "Willow Asia Cup 2025",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://a168aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/llriqg36oy/out/v1/d5d0b76a4cab4567888ffea90cc42a2c/cenc.mpd",
-        "clearkey": "31f91da574d667855834640e323f647d:044dbc740ad84f6069277a6cabd76adf",
-        "cookie": "",
-        "userAgent": "Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 - FANCODE",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-        "clearkey": "0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547",
+        "name": "Bangladesh VS Afghanistan",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
+        "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "clearkey": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
         "referer": ""
     },
     {
-        "name": "Asia Cup 2025 - Astro Cricket ",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
-        "clearkey": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 - WILLOW 2 CRICKET ",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "http://10.16.100.202:8080/hls/SonySportsTen1Hd.m3u8",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 - Tnt 1",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/zSHsGvWwSq-dEC_nAFYCjtyExfIoOvk52KmOeolWMNoXWOoKR43LA1KGasJR-rNvYQXOYsSPkFt2gbA52eaXog/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 -FOX501",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "http://10.10.10.2/live/fnf003/index.m3u8",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 - Sony Ten 1",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/z-zDrx8_gWuRlYrXxgklPApXNqaq0IwMBWyE1OYKo2gEPqgjAtCkgLSjw_kKNIKt3tWT-MMy2ihjJIV_yvMgYw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 -",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Asia Cup 2025 -",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "http://duchiduchitoreduchi.himelop-pro.top/astro-himu/tracks-v1a1/mono.m3u8",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "SONYLIV-Asia Cup 2025 -",
-        "logo": "https://images.slivcdn.com/videoasset_images/manage_file/1000007682/1757352543320193_AsiaCup_2025_GOB_3_Landscape_Thumb_SP_1.jpg?w=1000&q=low",
-        "link": "http://10.16.100.214:8080/hls/PtvSportsHD.m3u8",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "SONYLIV - Asia Cup 2025 -",
-        "logo": "https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/images/actual_0Hf5WBiD4q1756899512.jpg",
-        "link": "http://duchiduchitoreduchi.himelop-pro.top/astro-himu/tracks-v1a1/mono.m3u8",
+        "name": "Bangladesh VS Afghanistan 1",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
+        "link": "https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1759508641&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=61374daf0a9fc10e1cb887fa20415c0c",
         "clearkey": "",
         "cookie": "",
         "userAgent": "",
