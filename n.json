@@ -328,10 +328,10 @@
     "referer": ""
   },
   {
-    "name": "AL-Jajira",
+    "name": "TEST EM",
     "logo": "http://tvassets.roarzone.info/images/89.png",
     "type": "embed",
-    "embed": "http://10.99.99.99/player.php?stream=89",
+    "embed": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/137252_english_hls_f6533904ac22617ta-di_h264/index.m3u8",
     "cookie": "",
     "referer": ""
   }
